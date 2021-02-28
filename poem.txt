@@ -3,3 +3,4 @@ green
 yellow
 purple
 cian
+orange
